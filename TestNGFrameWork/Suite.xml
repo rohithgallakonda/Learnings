@@ -1,0 +1,12 @@
+<suite name="Rohith">
+<test name="Report1">
+<classes>
+<class name="sepchild.FirstTestNGScript">
+</class>
+<class name="sepchild.SecondTestNgScript">
+</class>
+<class name="sepchild.ThirdTestNgScript">
+</class>
+</classes>
+</test>
+</suite>
